@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reproductor de Musica Basico</string>
+    <string name="music_name">Keep Driving</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="pausar">Pausar</string>
+    <string name="detener">Detener</string>
+</resources>
