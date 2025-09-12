@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InteraccionImagen</string>
+    <string name="toast_message">¡Hiciste clic en la imagen!</string>
+    <string name="imagen_de_prueba">Imagen de prueba</string>
+</resources>
