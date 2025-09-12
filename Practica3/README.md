@@ -41,5 +41,5 @@ Esta práctica contiene dos aplicaciones Android desarrolladas en Kotlin que dem
 ## 👨‍💻 Autor
 Fatima Florez Gonzalez
 
-## 📅 Fechas
+## 📅 Fecha
 12/09/2025
