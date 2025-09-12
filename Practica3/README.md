@@ -1,9 +1,9 @@
 # Práctica 3 - Aplicaciones Básicas Android
 
-## 📱 Descripción
+## Descripción
 Esta práctica contiene dos aplicaciones Android desarrolladas en Kotlin que demuestran funcionalidades básicas de interacción con imágenes y reproducción de audio.
 
-## 🎯 Ejercicios Implementados
+## Ejercicios Implementados
 
 ### 1. Interacción con Imágenes
 **Descripción:** Aplicación que muestra una imagen y al hacer clic sobre ella muestra un mensaje Toast personalizado.
@@ -25,14 +25,14 @@ Esta práctica contiene dos aplicaciones Android desarrolladas en Kotlin que dem
 - Interfaz de usuario intuitiva
 
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Lenguaje:** Kotlin
 - **IDE:** Android Studio
 - **SDK:** Android API 21+
 - **Layout:** ConstraintLayout
 - **Multimedia:** MediaPlayer
 
-## 🚀 Cómo Ejecutar
+## Cómo Ejecutar
 1. Clonar o descargar el proyecto
 2. Abrir en Android Studio
 3. Sincronizar proyecto con Gradle
