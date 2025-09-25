@@ -1,7 +1,5 @@
 # Practica 4
 
-Ejercicios de la practica 4
-
 ## Ejercicios propuestos
 
 ### 1.  Editor de Perfil
