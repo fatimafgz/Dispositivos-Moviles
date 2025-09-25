@@ -12,7 +12,7 @@ Aplicación para crear y editar perfiles de usuario con validación de datos.
 ### 2.  Editor de Notas Rápidas  
 Aplicación para crear, editar y compartir notas con persistencia de datos.
 
-**→ [Ver](./EditorNotasRapidas/)**
+**→ [Ver](./EditorNotas/)**
 
 ## 🛠️ Tecnologías Utilizadas
 - Kotlin
