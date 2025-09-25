@@ -1,4 +1,4 @@
-# Editor de Notas Rápidas 
+# Editor de Notas Rápidas 📝
 
 Aplicación para crear y compartir notas de manera sencilla.
 
