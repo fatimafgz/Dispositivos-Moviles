@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Configurador de Comida</string>
+
+    <!-- InicioFragment -->
+    <string name="titulo_configurador_pedidos">Configurador de Pedidos</string>
+    <string name="btn_nuevo_pedido">Nuevo Pedido</string>
+
+    <!-- SeleccionComidaFragment -->
+    <string name="titulo_selecciona_comida">Selecciona tu comida</string>
+    <string name="opcion_pizza">Pizza</string>
+    <string name="opcion_hamburguesa">Hamburguesa</string>
+    <string name="opcion_ensalada">Ensalada</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="error_selecciona_comida">Selecciona un tipo de comida</string>
+
+    <!-- SeleccionExtrasFragment -->
+    <string name="titulo_selecciona_extras">Selecciona tus extras</string>
+    <string name="extra_bebida">Bebida</string>
+    <string name="extra_papas">Papas Fritas</string>
+    <string name="extra_postre">Postre</string>
+
+    <!-- ResumenPedidoFragment -->
+    <string name="titulo_resumen_pedido">Resumen de tu Pedido</string>
+    <string name="cargando">Cargando...</string>
+    <string name="comida">Comida: %s</string>
+    <string name="extras">Extras: %s</string>
+    <string name="ninguno">Ninguno</string>
+    <string name="btn_confirmar_pedido">Confirmar Pedido</string>
+    <string name="btn_editar_pedido">Editar Pedido</string>
+    <string name="pedido_confirmado">Pedido confirmado!</string>
+</resources>
