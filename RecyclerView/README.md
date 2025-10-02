@@ -1,8 +1,8 @@
-# 📱 RecyclerView App - Gestión de Usuarios
+#  RecyclerView App - Gestión de Usuarios
 
 Una aplicación Android que muestra una lista de usuarios usando RecyclerView con funcionalidades completas de CRUD (Crear, Leer, Actualizar, Eliminar).
 
-## 🚀 Características Implementadas
+## Características Implementadas
 
 ### Funcionalidades Principales
 - **Mostrar lista de usuarios** en RecyclerView
@@ -11,10 +11,10 @@ Una aplicación Android que muestra una lista de usuarios usando RecyclerView co
 - **Editar usuarios** con long click y diálogo modal
 - **Interfaz responsive** con diferentes LayoutManagers
 
-## 🎯 Cómo Usar
+## Cómo Usar
 
 ### ➕ Agregar Usuario
-- Toca el botón **"+"** (FAB) en la esquina inferior derecha
+- Toca el botón **"+"** en la esquina inferior derecha
 - Se agregará automáticamente un usuario con datos de ejemplo
 
 ### ✏️ Editar Usuario
