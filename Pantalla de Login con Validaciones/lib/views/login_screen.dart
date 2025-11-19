@@ -95,7 +95,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          // ✅ ACTIVIDAD 3 – Pasar email a UserListScreen
+                          // Pasar email a UserListScreen
                           builder: (_) => UserListScreen(email: _email),
                         ),
                       );
@@ -105,7 +105,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 ),
               ),
 
-              const SizedBox(height: 15), // Espaciado uniforme
+              const SizedBox(height: 15), 
 
               // Botón “Crear cuenta”
               SizedBox(
@@ -121,4 +121,5 @@ class _LoginScreenState extends State<LoginScreen> {
       ),
     );
   }
+
 }
