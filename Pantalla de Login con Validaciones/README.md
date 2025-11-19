@@ -23,9 +23,6 @@ Una aplicación móvil desarrollada en Flutter que implementa el patrón de arqu
 ## Instalación y Ejecución
 
 1. **Clonar el repositorio**
-   ```bash
-   git clone <url-del-repositorio>
-   cd gestion-usuarios-flutter
 2. Instalar dependencias
     ```bash
    flutter pub get
